@@ -4,7 +4,7 @@
 require 'path/to/telegram-bot-api.php';
 
 // Set the bot token
-$botToken = 'YOUR_BOT_TOKEN';
+$botToken = '7094896891:AAFDdQUcOLlUwpSSPs9yp2wndS07t4nUzlQ';
 
 // Set the Spotify API key
 $spotifyApiKey = 'YOUR_SPOTIFY_API_KEY';
